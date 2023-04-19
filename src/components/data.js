@@ -4,9 +4,11 @@ const data=[
         title:"developer"
     },
     {   id:2,
-        name:"andrew",
+        name:"Klaus",
         title:"developer",
-        age:20
+        age:20,
+        role:"Manager",
+        address:"Moi Avenue"
     },
     {   id:3,
         name:"andrew",
@@ -14,7 +16,9 @@ const data=[
     },
     {   id:4,
         name:"andrew",
-        title:"developer"
+        title:"developer",
+        role:"CTO",
+        address:"Moi Avenue"
     }
 ]
 
